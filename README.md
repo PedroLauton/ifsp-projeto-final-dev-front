@@ -32,7 +32,7 @@ https://github.com/PedroLauton/ifsp-projeto-final-dev-front/assets/129104265/2f6
 https://github.com/PedroLauton/ifsp-projeto-final-dev-front/assets/129104265/1a76a3d9-00dc-49c1-8e8a-417b752aa3d0
 
 
-## Demonstração
+## Link
 
 Clique <a href="https://pedrolauton.github.io/ifsp-projeto-final-dev-front/">aqui</a> para abrir o site! 
 
