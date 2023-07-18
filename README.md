@@ -6,7 +6,9 @@ Olá! 👋
 Este repositório traz consigo o projeto final de Desenvolvimento Front-End do IFSP (Instituto Federal de São Paulo). Neste site, o tema abordado é a lenda do Rei Arthur, contando com curiosidades, vídeo, personagens e, claro, a sua história.
 
 
+## Stack utilizada
 
+**Front-end:** HTML, CSS, JavaScript
 
 
 ## Funcionalidades
@@ -24,6 +26,6 @@ Este repositório traz consigo o projeto final de Desenvolvimento Front-End do I
 
 ## Demonstração
 
-<video src="./imagens/demonstração1.mp4" width="300" height="300" controls></video>        
-<video src="./imagens/demonstração2.mp4" width="300" height="300" controls></video>        
 
+https://github.com/PedroLauton/ifsp-projeto-final-dev-front/assets/129104265/2f6854bd-7d90-40d6-b73b-9259ee61873a
+https://github.com/PedroLauton/ifsp-projeto-final-dev-front/assets/129104265/1a76a3d9-00dc-49c1-8e8a-417b752aa3d0
