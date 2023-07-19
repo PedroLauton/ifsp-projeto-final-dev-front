@@ -27,8 +27,8 @@ Este repositório traz consigo o projeto final de Desenvolvimento Front-End do I
 
 ## Demonstração
 
-<img src="./imagens/gif1.gif"/>
-<img src="./imagens/gif2.gif"/>
+<img src="./imagens/gif1.gif" width="1000" height="1000"/>
+<img src="./imagens/gif2.gif" width="1000" height="1000"/>
 
 
 ## Link
